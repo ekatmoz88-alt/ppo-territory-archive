@@ -4,6 +4,9 @@
 
 <a id="ru"></a>
 
+[Интерактивная схема семи направлений обмена](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#integrations)
+
+
 В доступных материалах указаны семь направлений обмена:
 
 | Внешняя система / сервис | Описанный обмен |
@@ -19,6 +22,9 @@
 Таблица фиксирует направления обмена, упомянутые в доступных материалах. Она не подтверждает доступность действующих конечных точек, версии протоколов, способы аутентификации, схемы сообщений или текущий эксплуатационный статус интеграций.
 
 <a id="en"></a>
+
+[Interactive diagram of the seven exchange directions](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#integrations)
+
 
 The available materials identify seven integration directions:
 
