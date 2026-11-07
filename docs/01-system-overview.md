@@ -1,13 +1,13 @@
 # ППО «Территория» — обзор системы
 
+**Архитектурная документация:** [интерактивный каталог EN/RU — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [канонический Mermaid-источник](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md).
+
 [Русский](#ru) | [English](#en)
 
 <a id="ru"></a>
 
-[Интерактивный каталог архитектуры — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [Исходная спецификация схем](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
 
 
-[Интерактивный каталог архитектуры — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [Исходная спецификация схем](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
 
 
 ## Назначение и контекст
@@ -16,16 +16,14 @@
 
 Документированная архитектура предусматривает централизованный и распределённый варианты развёртывания, серверы приложений и баз данных, рабочие места с тонким клиентом при централизованной модели, а также обмен данными с внешними системами.
 
-В этом репозитории ППО «Территория» рассматривается как самостоятельная система. Она не объединяется с АРМ «Дискриптор» или отдельным проектом «Паспорт» / UMMS.
+В этом репозитории ППО «Территория» рассматривается как самостоятельная система. АРМ «Дискриптор», «Дешифратор» и UMMS описываются в портфолио как отдельные системные границы; совместное размещение материалов не означает единую исполняемую или эксплуатационную архитектуру.
 
 В исходных материалах упоминаются 17 функциональных модулей, однако доступные описания пока не позволяют восстановить полный подтверждённый перечень по каждому модулю. Полный состав необходимо сверить с первичной технической документацией.
 
 <a id="en"></a>
 
-[Interactive architecture catalogue — 10 Mermaid diagrams](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [Canonical diagram source](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
 
 
-[Interactive architecture catalogue — 10 Mermaid diagrams](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [Canonical diagram source](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
 
 
 ## Purpose and context
