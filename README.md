@@ -19,3 +19,8 @@ https://ekatmoz88-alt.github.io/ppo-territory-archive/
 ## Documentation approach
 
 Requirements, interface observations, file evidence, source-code findings and test results are distinguished. Items requiring primary-source confirmation are marked accordingly.
+
+
+## Architecture diagrams
+
+The expanded architecture catalogue is maintained in the [unified documentation hub](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/README.md), including PPO Territory functional domains, the logical data model, deployment models and seven documented integration directions.
