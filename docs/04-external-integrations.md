@@ -6,10 +6,8 @@
 
 <a id="ru"></a>
 
-[Интерактивная схема семи направлений обмена](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#integrations)
 
 
-[Интерактивная схема семи направлений обмена](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#integrations)
 
 
 В доступных материалах указаны семь направлений обмена:
@@ -28,10 +26,8 @@
 
 <a id="en"></a>
 
-[Interactive diagram of the seven exchange directions](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#integrations)
 
 
-[Interactive diagram of the seven exchange directions](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#integrations)
 
 
 The available materials identify seven integration directions:
