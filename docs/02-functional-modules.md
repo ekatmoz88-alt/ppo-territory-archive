@@ -4,6 +4,9 @@
 
 <a id="ru"></a>
 
+[Интерактивный каталог архитектуры — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
+
+
 ## Функциональные области, выявленные в доступных материалах
 
 - Регистрационный учёт граждан Российской Федерации.
@@ -13,9 +16,12 @@
 
 В исходных материалах всего упоминаются 17 функциональных модулей. Полный авторитетный перечень пока не восстановлен по первичной технической документации.
 
-Не следует выводить названия или обязанности остальных модулей только из четырёх перечисленных функциональных областей. Идентификаторы, входные и выходные данные, а также зависимости следует добавлять только при наличии подтверждения в исходных документах или исследованной реализации.
+В архитектурном каталоге отдельно показана инвентаризация БД: 401 таблица с группами CORE_*, DICT_*, RP_*, FP_*, REG_*, MIG_* и другими предметными областями. Префиксы таблиц не являются подтверждённым перечнем функциональных модулей и не доказывают соответствие один к одному. Не следует выводить названия или обязанности остальных модулей только из перечисленных бизнес-областей. Идентификаторы, входные и выходные данные, а также зависимости следует добавлять только при наличии подтверждения в исходных документах или исследованной реализации.
 
 <a id="en"></a>
+
+[Interactive architecture catalogue — 10 Mermaid diagrams](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
+
 
 ## Business domains identified in available materials
 
@@ -26,4 +32,4 @@
 
 The source materials refer to 17 functional modules in total. A complete authoritative inventory has not yet been reconstructed from primary technical documentation.
 
-Do not infer names or responsibilities of the remaining modules from the four business domains above. Add identifiers, inputs, outputs and dependencies only when supported by source documents or inspected implementation evidence.
+The architecture catalogue separately reports a database inventory of 401 tables grouped under CORE_*, DICT_*, RP_*, FP_*, REG_*, MIG_* and other subject areas. Table prefixes are not a verified list of functional modules and do not establish a one-to-one mapping. Do not infer names or responsibilities of the remaining modules from the business domains above. Add identifiers, inputs, outputs and dependencies only when supported by source documents or inspected implementation evidence.
