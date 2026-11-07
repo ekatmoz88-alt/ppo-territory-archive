@@ -6,10 +6,8 @@
 
 <a id="ru"></a>
 
-[Интерактивная схема архитектуры развёртывания](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#deployment)
 
 
-[Интерактивная схема архитектуры развёртывания](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#deployment)
 
 
 ## Централизованное развёртывание
@@ -26,16 +24,14 @@
 
 Для площадок без постоянного соединения описан пакетный обмен или репликация с использованием съёмных носителей. Точный протокол, расписание передачи, политика разрешения конфликтов и механизмы защиты требуют подтверждения технической документацией и данными о реализации.
 
-Документация также указывает два варианта размещения серверов приложения и БД: раздельное или совмещённое. Отдельно описан профиль выделенного сервера меньшей мощности. Фактическая конфигурация конкретного региона не установлена.
+Фактическая конфигурация конкретного региона не установлена.
 
 Это исторические модели развёртывания, а не рекомендации по построению современной инфраструктуры.
 
 <a id="en"></a>
 
-[Interactive deployment architecture diagram](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#deployment)
 
 
-[Interactive deployment architecture diagram](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#deployment)
 
 
 ## Centralized deployment
@@ -52,6 +48,6 @@ The source materials describe two server-placement alternatives: the application
 
 For sites without continuous connectivity, the materials describe batch exchange or replication using removable media. The exact protocol, transfer schedule, conflict-resolution policy and safeguards require confirmation from technical documents and implementation evidence.
 
-The documentation also specifies two application/database server-placement alternatives: separate servers or a combined server. A lower-capacity dedicated-server profile is described separately. The actual configuration of a particular region has not been established.
+The actual configuration of a particular region has not been established.
 
 These are historical deployment models, not modern deployment recommendations.
