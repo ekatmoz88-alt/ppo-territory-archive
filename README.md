@@ -29,4 +29,4 @@ This repository is the focused source archive for **PPO Territory**. It document
 - [Canonical Mermaid architecture source](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
 - [Detailed component maps](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/component-maps.md)
 
-The primary catalogue contains 10 Mermaid diagrams. The companion component maps contain 4 additional diagrams. The diagrams distinguish documented facts, logical reconstructions and evidence gaps; they do not assert a verified site-specific deployment.
+The primary catalogue contains 10 Mermaid diagrams. The companion component maps contain 7 additional diagrams. The diagrams distinguish documented facts, logical reconstructions and evidence gaps; they do not assert a verified site-specific deployment.
