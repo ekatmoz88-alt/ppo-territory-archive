@@ -1,5 +1,7 @@
 # PPO Territory
 
+[English](README.md) | [Русский](README.ru.md)
+
 Technical archive for the FMS Territory enterprise information system.
 
 ## Published site
