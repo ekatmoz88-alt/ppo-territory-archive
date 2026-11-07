@@ -1,13 +1,13 @@
 # ППО «Территория» — функциональные модули
 
+**Архитектурная документация:** [интерактивный каталог EN/RU — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [канонический Mermaid-источник](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md).
+
 [Русский](#ru) | [English](#en)
 
 <a id="ru"></a>
 
-[Интерактивный каталог архитектуры — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
 
 
-[Интерактивный каталог архитектуры — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
 
 
 ## Функциональные области, выявленные в доступных материалах
@@ -23,10 +23,8 @@
 
 <a id="en"></a>
 
-[Interactive architecture catalogue — 10 Mermaid diagrams](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
 
 
-[Interactive architecture catalogue — 10 Mermaid diagrams](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
 
 
 ## Business domains identified in available materials
