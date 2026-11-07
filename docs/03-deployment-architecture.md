@@ -7,6 +7,9 @@
 [Интерактивная схема архитектуры развёртывания](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#deployment)
 
 
+[Интерактивная схема архитектуры развёртывания](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#deployment)
+
+
 ## Централизованное развёртывание
 
 Централизованная модель описана как региональный или центральный экземпляр приложения, к которому пользовательские рабочие места подключаются по модели тонкого клиента. Сервисы приложения и базы данных размещаются централизованно относительно подключённых пользователей.
@@ -24,6 +27,9 @@
 Это исторические модели развёртывания, а не рекомендации по построению современной инфраструктуры.
 
 <a id="en"></a>
+
+[Interactive deployment architecture diagram](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#deployment)
+
 
 [Interactive deployment architecture diagram](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html#deployment)
 
