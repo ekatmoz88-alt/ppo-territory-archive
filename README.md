@@ -21,11 +21,12 @@ https://ekatmoz88-alt.github.io/ppo-territory-archive/
 Requirements, interface observations, file evidence, source-code findings and test results are distinguished. Items requiring primary-source confirmation are marked accordingly.
 
 
-## Architecture diagrams
+## Architecture source of truth
 
-The interactive [Enterprise Architecture Catalogue](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) is maintained in the unified documentation hub. It contains 10 Mermaid views across four separate system boundaries: PPO Territory, ARM Descriptor, Deshifrator and UMMS.
+This repository is the focused source archive for **PPO Territory**. It documents that system independently; ARM «Дискриптор», Deshifrator and UMMS are maintained as separate system boundaries in the unified architecture catalogue.
 
-For PPO Territory, the catalogue covers functional/database domains, the 401-table Oracle inventory, a provisional conceptual ER view, centralized and distributed deployment variants, and seven documented external exchange directions. These are evidence-based views, not a claim that all systems form one deployed product.
+- [Interactive bilingual architecture catalogue (EN/RU)](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
+- [Canonical Mermaid architecture source](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
+- [Detailed component maps](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/component-maps.md)
 
-- [Interactive diagrams (HTML)](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
-- [Canonical architecture source (Markdown)](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
+The primary catalogue contains 10 Mermaid diagrams. The companion component maps contain 4 additional diagrams. The diagrams distinguish documented facts, logical reconstructions and evidence gaps; they do not assert a verified site-specific deployment.
