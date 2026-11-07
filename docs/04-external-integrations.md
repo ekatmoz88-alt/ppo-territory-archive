@@ -1,5 +1,7 @@
 # ППО «Территория» — внешние интеграции
 
+**Архитектурная схема семи направлений обмена:** [интерактивный каталог EN/RU](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [канонический Mermaid-источник](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md#5-ppo-territory--external-integration-landscape).
+
 [Русский](#ru) | [English](#en)
 
 <a id="ru"></a>
