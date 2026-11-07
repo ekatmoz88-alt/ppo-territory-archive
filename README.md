@@ -23,4 +23,9 @@ Requirements, interface observations, file evidence, source-code findings and te
 
 ## Architecture diagrams
 
-The expanded architecture catalogue is maintained in the [unified documentation hub](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/README.md), including PPO Territory functional domains, the logical data model, deployment models and seven documented integration directions.
+The interactive [Enterprise Architecture Catalogue](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) is maintained in the unified documentation hub. It contains 10 Mermaid views across four separate system boundaries: PPO Territory, ARM Descriptor, Deshifrator and UMMS.
+
+For PPO Territory, the catalogue covers functional/database domains, the 401-table Oracle inventory, a provisional conceptual ER view, centralized and distributed deployment variants, and seven documented external exchange directions. These are evidence-based views, not a claim that all systems form one deployed product.
+
+- [Interactive diagrams (HTML)](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
+- [Canonical architecture source (Markdown)](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
