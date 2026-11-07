@@ -7,6 +7,9 @@
 [Интерактивный каталог архитектуры — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [Исходная спецификация схем](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
 
 
+[Интерактивный каталог архитектуры — 10 схем Mermaid](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [Исходная спецификация схем](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
+
+
 ## Назначение и контекст
 
 ППО «Территория» — информационная система ведомственного назначения в предметной области Федеральной миграционной службы. Доступные материалы описывают несколько функциональных направлений, поддерживающих процессы миграционного учёта и оказания государственных услуг.
@@ -18,6 +21,9 @@
 В исходных материалах упоминаются 17 функциональных модулей, однако доступные описания пока не позволяют восстановить полный подтверждённый перечень по каждому модулю. Полный состав необходимо сверить с первичной технической документацией.
 
 <a id="en"></a>
+
+[Interactive architecture catalogue — 10 Mermaid diagrams](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [Canonical diagram source](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
+
 
 [Interactive architecture catalogue — 10 Mermaid diagrams](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html) · [Canonical diagram source](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
 
