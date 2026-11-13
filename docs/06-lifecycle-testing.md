@@ -10,8 +10,6 @@
 
 ## Хронология
 
-В некоторых материалах упоминаются работы в течение 2014 года. Для достоверного календаря этапов, включая точные даты, акты приёмки, ответственных лиц и согласования, необходимы исходный график и приёмочная документация.
-
 ## Данные, необходимые для подтверждённой хронологии
 
 - Наименование этапа и договорной результат.
@@ -30,8 +28,6 @@
 The available materials refer to development and acceptance stages using abbreviations including ТП, РКД, ПИ, ГИ and acceptance/literature designations such as О1. ПЭО also appears, but its expansion is not asserted because the primary definition has not yet been verified.
 
 ## Chronology
-
-Some materials refer to work during 2014. A reliable stage-by-stage calendar, including exact dates, acceptance acts, responsible persons and approvals, requires the original schedule and acceptance documents.
 
 ## Evidence required for a verified timeline
 
