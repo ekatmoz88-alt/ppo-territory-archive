@@ -1,41 +1,9 @@
-# PPO Territory
+# PPO Territory — archived documentation
 
-[English](README.md) | [Русский](README.ru.md)
+The archive material has been consolidated into the canonical **PPO Territory / Deshifrator / UMMS** project hub.
 
-Technical archive for the FMS Territory enterprise information system.
+- [Canonical documentation hub](https://ekatmoz88-alt.github.io/territory-descriptor-unified/)
+- [PPO Territory documentation](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/territory/)
+- [Repository source](https://github.com/ekatmoz88-alt/territory-descriptor-unified)
 
-## Published site
-
-https://ekatmoz88-alt.github.io/ppo-territory-archive/
-
-## Documentation
-
-- [docs/01-system-overview.md](docs/01-system-overview.md)
-- [docs/02-functional-modules.md](docs/02-functional-modules.md)
-- [docs/03-deployment-architecture.md](docs/03-deployment-architecture.md)
-- [docs/04-external-integrations.md](docs/04-external-integrations.md)
-- [docs/05-platform-requirements.md](docs/05-platform-requirements.md)
-- [docs/06-lifecycle-testing.md](docs/06-lifecycle-testing.md)
-- [evidence/verification-matrix.md](evidence/verification-matrix.md)
-
-## Documentation approach
-
-Requirements, interface observations, file evidence, source-code findings and test results are distinguished. Items requiring primary-source confirmation are marked accordingly.
-
-## System boundary
-
-This repository documents **PPO Territory** as a standalone system. Its documentation is limited to the system's own purpose, functions, architecture, deployment and integrations.
-
-## Architecture source of truth
-
-The architecture catalogue provides the diagrams and structured architecture views referenced by this documentation.
-
-- [Interactive bilingual architecture catalogue (EN/RU)](https://ekatmoz88-alt.github.io/territory-descriptor-unified/materials/architecture/architecture.html)
-- [Canonical Mermaid architecture source](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/README.md)
-- [Detailed component maps](https://github.com/ekatmoz88-alt/territory-descriptor-unified/blob/main/materials/architecture/component-maps.md)
-
-The primary catalogue contains 10 Mermaid diagrams. The companion component maps contain 7 additional diagrams. The diagrams distinguish documented facts, logical reconstructions and evidence gaps; they do not assert a verified site-specific deployment.
-
-## Tags
-
-`ppo-territory` · `enterprise-architecture` · `deployment` · `integrations` · `requirements` · `lifecycle` · `evidence-based-docs`
+Unique source details were merged into the canonical documents. Duplicate copies are no longer maintained here. This repository remains as a pointer for historical links.
